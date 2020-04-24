@@ -1,0 +1,27 @@
+{
+  "type": "Article",
+  "title": "Dormir dans un gîte",
+  "date": "//",
+  "author": "Xavier Morin",
+  "URL": "https://www.gites-de-france.com/fr/centre-val-de-loire/loiret/au-temps-retrouve-h45g000992",
+  "imgURL": "gite.jpg",
+  "introduction": "Voici une liste des gites à proximité du lieu de réception.",
+  "content": [{
+    "type": "Paragraph",
+    "title": "Description",
+    "lines": [
+      "Liste des gites :",
+      {
+        "type": "List",
+        "class": "",
+        "items": [
+          "Un",
+          "deux",
+          "trois"
+        ]
+      },
+      "bon séjour",
+      "on vous embrasse."
+    ]
+  }]
+}

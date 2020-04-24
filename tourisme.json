@@ -1,0 +1,7 @@
+{
+  "type": "ArticleCollection",
+  "articlesURL": [
+    "tourisme/article01.json",
+    "tourisme/eglise-beaune.json"
+  ]
+}

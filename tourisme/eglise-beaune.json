@@ -1,0 +1,30 @@
+{
+  "type": "Article",
+  "title": "L'église de Beaune-La-Rolande",
+  "date": "",
+  "author": "Xavier Morin",
+  "URL": "",
+  "imgURL": "",
+  "introduction": "L'église de Beaune-la-Rolande",
+  "content": [{
+      "type": "Paragraph",
+      "title": "Un paragraphe",
+      "lines": [
+        "du texte"
+      ]
+    },
+    {
+      "type": "Paragraph",
+      "title": "Un deuxième paragraphe",
+      "lines": [{
+        "type": "List",
+        "style": "",
+        "items": [
+          "un",
+          "deux",
+          "trois"
+        ]
+      }]
+    }
+  ]
+}

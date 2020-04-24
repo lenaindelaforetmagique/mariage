@@ -1,0 +1,45 @@
+{
+  "type": "Article",
+  "title": "Le programme du jour J",
+  "date": "--",
+  "author": "Xavier Morin",
+  "URL": "",
+  "imgURL": "",
+  "introduction": "Voici le programme du jour J",
+  "content": [{
+      "type": "Paragraph",
+      "title": "Le Mariage civil",
+      "lines": [
+        "aura lieu le vendredi 25 septembre 2020 à 14h dans la mairie de Yèvre-la-Ville 45300."
+      ]
+    }, {
+      "type": "Paragraph",
+      "title": "Le Mariage religieux",
+      "lines": [
+        "sera célébré à 15h en l'Eglise de Beaune-la-Rolande.",
+        "La messe sera célébrée par le père Bertrand Cherrier."
+      ]
+    },
+    {
+      "type": "Paragraph",
+      "title": "Le vin d'honneur",
+      "lines": [
+        "viendez à Montberneaume !"
+      ]
+    },
+    {
+      "type": "Paragraph",
+      "title": "Le cocktail dinatoire",
+      "lines": [
+        "restez à Montberneaume !"
+      ]
+    },
+    {
+      "type": "Paragraph",
+      "title": "LA soirée",
+      "lines": [
+        "Restez ou revenez à Montberneaume !"
+      ]
+    }
+  ]
+}

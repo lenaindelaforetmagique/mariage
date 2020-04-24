@@ -1,0 +1,19 @@
+{
+  "type": "Menu",
+  "items": [{
+      "type": "item",
+      "name": "L'jour J",
+      "jsonURL": "accueil.json"
+    },
+    {
+      "type": "item",
+      "name": "Où c'est qu'on dort ?",
+      "jsonURL": "oudormir.json"
+    },
+    {
+      "type": "item",
+      "name": "S'ballader din l'gatinais...",
+      "jsonURL": "tourisme.json"
+    }
+  ]
+}

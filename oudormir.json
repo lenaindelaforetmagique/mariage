@@ -1,0 +1,9 @@
+{
+  "type": "ArticleCollection",
+  "articlesURL": [
+    "oudormir/article01.json",
+    "oudormir/campings.json",
+    "oudormir/gites.json",
+    "oudormir/hotels.json"
+  ]
+}

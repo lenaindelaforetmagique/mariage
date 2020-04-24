@@ -1,0 +1,26 @@
+{
+  "type": "Article",
+  "title": "Où c'est qu'on dort ?",
+  "date": "",
+  "author": "Xavier Morin",
+  "URL": "",
+  "imgURL": "",
+  "introduction": "",
+  "content": [{
+    "type": "Paragraph",
+    "title": "",
+    "lines": [
+      "Toutes les options pour dormir le soir S :",
+      {
+        "type": "List",
+        "class": "",
+        "items": [
+          "planter sa tente",
+          "dormir dans un gîte",
+          "dormir à l'hôtel"
+        ]
+      },
+      ""
+    ]
+  }]
+}

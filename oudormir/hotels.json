@@ -1,0 +1,27 @@
+{
+  "type": "Article",
+  "title": "Dormir à l'hotel",
+  "date": "//",
+  "author": "Xavier Morin",
+  "URL": "",
+  "imgURL": "hotel.jpg",
+  "introduction": "Voici une liste d'hôtels à proximité du lieu de réception",
+  "content": [{
+    "type": "Paragraph",
+    "title": "Description",
+    "lines": [
+      "Liste des hotels :",
+      {
+        "type": "List",
+        "class": "",
+        "items": [
+          "Un",
+          "deux",
+          "trois"
+        ]
+      },
+      "bon séjour",
+      "on vous embrasse."
+    ]
+  }]
+}

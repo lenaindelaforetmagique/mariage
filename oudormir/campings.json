@@ -1,0 +1,19 @@
+{
+  "type": "Article",
+  "title": "Planter sa tente",
+  "date": "",
+  "author": "Xavier Morin",
+  "URL": "",
+  "imgURL": "tente.jpg",
+  "introduction": "Vous pourrez planter votre tente dans la propriété.",
+  "content": [{
+    "type": "Paragraph",
+    "title": "Description",
+    "lines": [
+      "Dans un champ",
+      "Attention aux chardons",
+      "pensez à vos affaires",
+      "pas de douche"
+    ]
+  }]
+}

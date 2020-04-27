@@ -11,13 +11,13 @@
  */
 .text-reflect {
   position: relative;
-  /* height: 200px; */
+  height: 100%;
 }
 
 .text-reflect:before, .text-reflect:after {
   display: block;
   position: absolute;
-  bottom: 2px;
+  bottom: 90px;
   /* You should change this value to fit your font */
   left: 0;
   right: 0;

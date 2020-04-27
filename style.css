@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .scroll-left {
   /* height: 50px; */
   overflow: hidden;
@@ -5,14 +10,18 @@
   /* background: yellow; */
   /* color: orange; */
   /* border: 1px solid orange; */
+  position: absolute;
+  /* left: 13px; */
+  top: 30%;
+  height: 50%;
+  width: 100%;
+  /* width: 390px; */
 }
 
 .scroll-left h1 {
-  /* position: absolute; */
+  position: absolute;
   width: 100%;
   height: 100%;
-  margin: 0;
-  padding: 0;
   /* line-height: 50px; */
   text-align: center;
   /* Starting position */
@@ -68,59 +77,55 @@
 }
 
 html {
-  height: 100%;
   overflow-y: scroll;
   background-image: url("bg.jpg");
-  /* linear-gradient(to bottom right, #CCEEFF, #FFDCFE); */
   background-attachment: fixed;
 }
 
 body {
   width: 800px;
   margin: 0px auto;
-  padding: 0;
   font-family: 'Tajawal', sans-serif;
   color: #404040;
 }
 
 header {
-  margin: 0;
-  padding: 0;
   position: relative;
-  height: 250px;
-  background-image: url("bann.png");
   font-family: 'Amatic SC', cursive;
-  /* color: rgba(255, 200, 40, 1); */
   color: #FFFFFF;
+  /* height: 250px; */
+  /* color: rgba(255, 200, 40, 1); */
   /* color: gray; */
 }
 
 header h1 {
-  text-align: left;
-  /* margin: 0; */
-  /* padding: 39px 0 0 0; */
-  font-size: 70px;
+  font-size: 100%;
+  /* 70px; */
   text-shadow: 0px 1px 1px black;
 }
 
-header div {
-  position: relative;
-  /* left: 13px; */
-  top: 75px;
-  height: 150px;
-  /* width: 390px; */
+header img {
+  width: 100%;
+  display: block;
 }
 
-header img {
+header svg {
+  width: 100%;
+  display: block;
+}
+
+svg text {
+  font-size: 70px;
+}
+
+header img.front {
   position: absolute;
-  left: 0;
+  left: 0px;
   top: 0px;
   z-index: 1;
 }
 
-header p {
-  margin: 0;
-  /* padding: 0 0 0 26px; */
+header p.date {
   position: absolute;
   top: 160px;
   right: 10px;
@@ -135,7 +140,6 @@ nav {
   height: 100%;
   padding: 0;
   /* width: 100%; */
-  /* margin: 30px 20px 30px 40px; */
   /* border: 4px; */
   /* border-style: inset none dashed none; */
   /* border-color: #DDDDDD; */
@@ -156,8 +160,6 @@ nav ul {
 
 nav li {
   color: white;
-  /* margin: 4px 3px 3px 0px; */
-  /* margin: 0; */
   padding: 7px 20px 5px 20px;
   border-width: 0;
   /* border-radius: 7px 7px 0 0; */
@@ -186,7 +188,6 @@ main {
 article {
   background: rgba(255, 255, 255, 0.7);
   margin: 7px;
-  padding: 0;
   /* border-radius: 7px; */
   /* border-width: 10px;
   border-color: red; */
@@ -225,7 +226,6 @@ article p {
 }
 
 article p.error {
-  margin: 0;
   padding: 13px;
   text-align: justify;
   color: darkred;
@@ -240,7 +240,6 @@ article p.foot {
   /* background-image: linear-gradient(to right, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0)); */
   background: rgba(252, 221, 174, 1);
   text-align: right;
-  margin: 0;
   height: 5px;
 }
 
@@ -252,7 +251,6 @@ article img.vignette {
 
 article ul, article li {
   text-align: left;
-  padding: 0px 0px 0px 0px;
   margin: 0px 0px 0px 10px;
 }
 
@@ -308,7 +306,12 @@ a:active {
 @media screen and (max-device-width: 800px) {
   body {
     -webkit-text-size-adjust: none;
-    width: 98%;
+    width: 100%;
+  }
+
+  header {
+    /* background-size: contain; */
+    /* height: auto; */
   }
 
   article {
@@ -317,14 +320,7 @@ a:active {
 }
 
 @media screen and (max-device-width: 600px) {
-  header div {
-    left: 90px;
-    width: 210px;
-    height: 100px;
-  }
-
   header h1 {
-    padding: 30px 0 0 0;
     font-size: 24px;
   }
 
@@ -334,7 +330,6 @@ a:active {
   }
 
   nav ul {
-    margin: 0px 0 0 0;
     padding: 5px 0 5px 0;
     font-size: 14px;
   }
@@ -350,7 +345,6 @@ a:active {
     margin-left: 10%;
     margin-right: 10%;
     margin-bottom: 10px;
-    padding: 0 0 0 0;
   }
 
   main {

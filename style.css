@@ -265,4 +265,9 @@ a:active {
   footer p {
     font-size: 14px;
   }
+
+  a:hover {
+    color: #BBBBBB;
+    color: orange;
+  }
 }

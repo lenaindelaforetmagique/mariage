@@ -2,17 +2,17 @@
   "type": "Menu",
   "items": [{
       "type": "item",
-      "name": "L'jour J",
+      "name": "L'jour&nbsp;J",
       "jsonURL": "accueil.json"
     },
     {
       "type": "item",
-      "name": "Où c'est qu'on dort ?",
+      "name": "Où&nbsp;c'est&nbsp;qu'on&nbsp;dort&nbsp;?",
       "jsonURL": "oudormir.json"
     },
     {
       "type": "item",
-      "name": "S'ballader din l'gatinais...",
+      "name": "S'ballader&nbsp;din&nbsp;l'gatinais...",
       "jsonURL": "tourisme.json"
     }
   ]

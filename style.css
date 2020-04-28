@@ -25,41 +25,9 @@ header {
   /* color: gray; */
 }
 
-header h1 {
-  font-size: 100%;
-  /* 70px; */
-  text-shadow: 0px 1px 1px black;
-}
-
-header img {
-  width: 100%;
-  display: block;
-}
-
 header svg {
   width: 100%;
   display: block;
-}
-
-/*
-svg text {
-  font-size: 70px;
-} */
-header img.front {
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  z-index: 1;
-}
-
-header p.date {
-  position: absolute;
-  top: 160px;
-  right: 10px;
-  text-align: right;
-  font-size: 40px;
-  /* font-style: italic; */
-  text-shadow: 0px 0px 5px black;
 }
 
 nav {
@@ -163,13 +131,6 @@ article p.author {
   font-style: italic;
 }
 
-article p.foot {
-  /* background-image: linear-gradient(to right, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0)); */
-  background: rgba(252, 221, 174, 1);
-  text-align: right;
-  height: 5px;
-}
-
 article img.vignette {
   width: 260px;
   padding: 0 13px 13px 13px;
@@ -190,10 +151,6 @@ article ul.inline li {
   display: inline;
 }
 
-article p.foot img {
-  width: 18px;
-}
-
 article em {
   /* text-shadow: #FC0 1px 0 10px; */
   font-style: normal;
@@ -210,6 +167,7 @@ footer {
 }
 
 footer p {
+  margin: 10px;
   font-size: 12px;
 }
 
@@ -224,10 +182,12 @@ a:visited {
 
 a:hover {
   color: #BBBBBB;
+  /* color: orange; */
 }
 
 a:active {
   color: #BBBBBB;
+  color: orange;
 }
 
 @media screen and (max-device-width: 800px) {
@@ -247,31 +207,18 @@ a:active {
 }
 
 @media screen and (max-device-width: 600px) {
-  header h1 {
-    font-size: 24px;
-  }
-
-  header p {
-    padding: 0 0 0 20px;
-    font-size: 12px;
-  }
-
-  nav ul {
-    padding: 5px 0 5px 0;
-    font-size: 14px;
-  }
-
   nav li {
-    margin: 4px 3px 3px 0px;
-    padding: 5px 10px 5px 10px;
+    margin: 0px 3px 3px 3px;
+    padding: 3px 0px 3px 0px;
     /* border-radius: 5px 5px 0 0; */
+    display: list-item;
   }
 
   article img.vignette {
-    width: 80%;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-bottom: 10px;
+    width: 90%;
+    float: none;
+    display: block;
+    margin: auto;
   }
 
   main {
@@ -281,13 +228,11 @@ a:active {
 
   article {
     margin: 10px;
-    /* border-radius: 5px; */
   }
 
   article h2 {
     padding: 5px 5px 5px 10px;
-    /* border-radius: 5px 5px 0 0; */
-    font-size: 18px;
+    /* font-size: 18px; */
   }
 
   div.date {
@@ -299,14 +244,14 @@ a:active {
   article h3 {
     padding-left: 10px;
     margin-bottom: 5px;
-    font-size: 16px;
+    /* font-size: 16px; */
   }
 
   article p {
-    margin: 0 0 10px 0;
+    /* margin: 0 0 10px 0; */
     padding-left: 10px;
     padding-right: 10px;
-    font-size: 14px;
+    /* font-size: 16px; */
   }
 
   article p.error {
@@ -315,10 +260,6 @@ a:active {
 
   article ul, article li {
     margin: 0px 0px 0px 10px;
-  }
-
-  article p.foot img {
-    width: 14px;
   }
 
   footer p {

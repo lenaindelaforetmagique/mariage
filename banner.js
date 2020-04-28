@@ -91,7 +91,7 @@ class Banner {
 
     let stop = document.createElementNS(SVGNS, "stop");
     stop.setAttributeNS(null, "offset", "0%");
-    stop.setAttributeNS(null, "style", "stop-color:rgba(255,255,255,0);stop-opacity:1");
+    stop.setAttributeNS(null, "style", "stop-color:rgba(180,180,180,0);stop-opacity:1");
     linearGradient.appendChild(stop);
 
     stop = document.createElementNS(SVGNS, "stop");

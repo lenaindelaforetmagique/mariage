@@ -25,6 +25,13 @@
           "trois"
         ]
       }]
+    }, {
+      "type": "Paragraph",
+      "title": "S'y rendre",
+      "lines": [
+        "L'adresse : Place de l'Abbaye, 45730 Saint-Benoît-sur-Loire",
+        "ou bien cliquez sur ce <a href=\"https://goo.gl/maps/5yCCh4TjjrBuYHc59\" target=\"_blank\">lien google-map</a>"
+      ]
     }
   ]
 }

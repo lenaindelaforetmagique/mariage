@@ -25,6 +25,13 @@
           "trois"
         ]
       }]
+    }, {
+      "type": "Paragraph",
+      "title": "S'y rendre",
+      "lines": [
+        "L'adresse : 4 Place de L'Hôtel de ville, 45340 Beaune-la-Rolande",
+        "ou bien cliquez sur ce <a href=\"https://goo.gl/maps/JyoeH4Re1TvKbzcz7\" target=\"_blank\">lien google-map</a>"
+      ]
     }
   ]
 }

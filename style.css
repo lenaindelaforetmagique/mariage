@@ -1,3 +1,4 @@
+/* orange #FFA500 	rgb(255,165,0) 	hsl(39,100%,50%) */
 * {
   margin: 0;
   padding: 0;
@@ -66,7 +67,7 @@ nav li {
 nav li.selected {
   /* font-weight: bold; */
   background-color: rgba(255, 255, 255, 0.3);
-  color: orange;
+  color: #FFA500;
 }
 
 nav li:hover {
@@ -97,7 +98,7 @@ article h2 {
   /* background: rgba(0, 0, 0, 0.3); */
   /* background-image: linear-gradient(to right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)); */
   background: rgba(252, 221, 174, 1);
-  color: orange;
+  color: #FFA500;
   font-family: 'Amatic SC', cursive;
 }
 
@@ -107,7 +108,7 @@ article h3 {
   margin-bottom: 7px;
   font-size: 24px;
   color: #444444;
-  color: orange;
+  color: #FFA500;
   font-family: 'Amatic SC', cursive;
 }
 
@@ -156,7 +157,7 @@ article em {
   /* text-shadow: #FC0 1px 0 10px; */
   font-style: normal;
   font-weight: bold;
-  color: orange;
+  color: #FFA500;
 }
 
 footer p {
@@ -172,23 +173,42 @@ footer p {
   font-size: 12px;
 }
 
+footer a:link {
+  color: #444444;
+  text-decoration: none;
+}
+
+footer a:visited {
+  color: #444444;
+}
+
+footer a:hover {
+  color: #BBBBBB;
+}
+
+footer a:active {
+  color: #BBBBBB;
+}
+
 a:link {
   color: #444444;
+  color: #FFA500;
   text-decoration: none;
 }
 
 a:visited {
   color: #444444;
+  color: #FFA500;
 }
 
 a:hover {
   color: #BBBBBB;
-  /* color: orange; */
+  /* color: #FFA500; */
 }
 
 a:active {
   color: #BBBBBB;
-  color: orange;
+  color: #FFA500;
 }
 
 @media screen and (max-device-width: 800px) {
@@ -265,6 +285,6 @@ a:active {
 
   a:hover {
     color: #BBBBBB;
-    color: orange;
+    color: #FFA500;
   }
 }

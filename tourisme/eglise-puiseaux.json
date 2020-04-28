@@ -25,6 +25,13 @@
           "trois"
         ]
       }]
+    }, {
+      "type": "Paragraph",
+      "title": "S'y rendre",
+      "lines": [
+        "L'adresse : 2 Rue Blanchard, 45390 Puiseaux",
+        "ou bien cliquez sur ce <a href=\"https://goo.gl/maps/bZnyC8W3nmpQELLa8\" target=\"_blank\">lien google-map</a>"
+      ]
     }
   ]
 }

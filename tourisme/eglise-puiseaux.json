@@ -1,11 +1,11 @@
 {
   "type": "Article",
-  "title": "L'église de Beaune-La-Rolande",
+  "title": "L'église de Puiseaux",
   "date": "",
   "author": "Xavier Morin",
   "URL": "",
-  "imgURL": "tourisme/beaune_la_rolande.jpg",
-  "introduction": "L'église de Beaune-la-Rolande",
+  "imgURL": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Puiseaux_%C3%A9glise.jpg",
+  "introduction": "L'église de Puiseaux",
   "content": [{
       "type": "Paragraph",
       "title": "Un paragraphe",

@@ -1,6 +1,6 @@
 {
   "type": "Article",
-  "title": "Où c'est qu'on dort ?",
+  "title": "",
   "date": "",
   "author": "Xavier Morin",
   "URL": "",
@@ -10,14 +10,15 @@
     "type": "Paragraph",
     "title": "",
     "lines": [
-      "Toutes les options pour dormir le soir S :",
+      "Il se pourrait qu'après avoir passé la journée à festoyer vous souhaitiez vous reposer un peu.",
+      "Nous avons regroupé sur cette page quelques possibilités classées par thème, selon la vivacité de votre âme de baroudeur :",
       {
         "type": "List",
         "class": "",
         "items": [
-          "planter sa tente",
-          "dormir dans un gîte",
-          "dormir à l'hôtel"
+          "je cherche un super endroit pour planter ma tente !",
+          "ma tente s'est envolée lors de mon récent tour des Annapurnas, du coup la solution gîte me convient parfaitement !",
+          "j'adore la randonnée, mais même en montagne j'exige une douche chaude le soir, alors ce sera l'hôtel pour moi !"
         ]
       },
       ""

@@ -2,6 +2,8 @@
   "type": "ArticleCollection",
   "articlesURL": [
     "tourisme/article01.json",
-    "tourisme/eglise-beaune.json"
+    "tourisme/eglise-beaune.json",
+    "tourisme/eglise-puiseaux.json",
+    "tourisme/abbaye-saint-benoit-sur-loire.json"
   ]
 }

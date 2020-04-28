@@ -1,10 +1,10 @@
 {
   "type": "Article",
-  "title": "Dormir à l'hotel",
-  "date": "//",
+  "title": "Dormir à l'hôtel",
+  "date": "",
   "author": "Xavier Morin",
   "URL": "",
-  "imgURL": "hotel.jpg",
+  "imgURL": "oudormir/hotel.jpg",
   "introduction": "Voici une liste d'hôtels à proximité du lieu de réception",
   "content": [{
     "type": "Paragraph",

@@ -1,35 +1,21 @@
 {
   "type": "Article",
-  "title": "Bienvenue ici !",
+  "title": "",
   "date": "",
   "author": "Xavier Morin",
   "URL": "",
   "imgURL": "",
   "introduction": "",
   "content": [{
-      "type": "Paragraph",
-      "title": "",
-      "lines": [
-        "Chère famille, chers amis,",
-        "Comme vous le savez déjà, et si vous ne le savez pas encore, vous n'allez pas tarder à le savoir, nous allons nous marier !!",
-        "Notez dès à présent la date, ça se passera le <em>26 septembre 2020</em> !",
-        "Vous trouverez sur cette page internet quelques informations bien pratiques pour le jour J. Et en bas de cette page, retrouvez le programme du jour J.",
-        "Bonne visite, nous vous embrassons,",
-        "Xavier & Marie-Astrid"
-      ]
-    }, {
-      "type": "Paragraph",
-      "title": "Où c'est qu'on dort",
-      "lines": [
-        "Quelques endroits charmants pour dormir le soir S !"
-      ]
-    },
-    {
-      "type": "Paragraph",
-      "title": "S'ballader din l'gatinais...",
-      "lines": [
-        "Profitez du déplacement pour visiter la région le jour J+1 !"
-      ]
-    }
-  ]
+    "type": "Paragraph",
+    "title": "",
+    "lines": [
+      "Chère famille, chers amis,",
+      "Comme vous le savez déjà, et si vous ne le savez pas encore, vous n'allez pas tarder à le savoir, nous allons nous marier !!",
+      "Notez dès à présent la date, ça se passera le <em>26 septembre 2020</em> !",
+      "Vous trouverez sur cette page internet quelques informations bien pratiques pour le jour J. Et en bas de cette page, retrouvez le programme du jour J.",
+      "Bonne visite, nous vous embrassons,",
+      "Xavier & Marie-Astrid"
+    ]
+  }]
 }

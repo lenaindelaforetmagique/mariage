@@ -53,8 +53,8 @@ class Banner {
     this.dom = document.createElementNS(SVGNS, "svg");
     this.container.appendChild(this.dom);
     this.viewBox = new ViewBox(this.dom, 0, 0, 800, 250);
-    this.backImageURL = "bann.png";
-    this.frontImageURL = "bann2-front.png";
+    this.backImageURL = "img/bann.png";
+    this.frontImageURL = "img/bann2-front.png";
     this.scrollingText = "Xavier & Marie-Astrid";
     this.dateText = "26.09.2020";
 

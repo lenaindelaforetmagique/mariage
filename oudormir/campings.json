@@ -4,16 +4,22 @@
   "date": "",
   "author": "Xavier Morin",
   "URL": "",
-  "imgURL": "tente.jpg",
-  "introduction": "Vous pourrez planter votre tente dans la propriété.",
+  "imgURL": "oudormir/tente.jpg",
+  "introduction": "Vous aimez dormir sous la tente et à proximité du lieu de réception, vous allez être heureux de savoir qu'un pré fraîchement coupé pourra accueillir votre toile de tente.",
   "content": [{
     "type": "Paragraph",
-    "title": "Description",
+    "title": "Informations utiles",
     "lines": [
-      "Dans un champ",
-      "Attention aux chardons",
-      "pensez à vos affaires",
-      "pas de douche"
+      "Vous comprendrez que nous ne pourrons garantir un accueil digne du camping des flots bleus mais vous jouirez sans aucun doute des joies de la campagne :",
+      {
+        "type": "List",
+        "class": "",
+        "items": [
+          "vous serez réveillé par le vacarme des oiseaux ou le doux chant des tracteurs",
+          "le sol ne sera sans doute pas parfaitement à niveau ; pensez à mettre les pieds en haut, il parait que c'est bon pour la circulation",
+          "quelques chardons pourraient avoir la bonne idée de pointer leur épines dans la direction de votre dos ; pensez à prendre un bon tapis de sol !"
+        ]
+      }
     ]
   }]
 }

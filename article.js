@@ -26,9 +26,6 @@ class Article {
         thiz.introduction = requ.response.introduction;
         thiz.content = requ.response.content;
         thiz.show();
-        if (changeMeta) {
-          thiz.changeMeta();
-        }
       } else {
         thiz.dom.innerHTML = "<p class=\"error\">L'article <em>" + jsonURL + "</em> n'a pas pu être chargé correctement...</p>";
       }
@@ -39,9 +36,12 @@ class Article {
   }
 
   show() {
-    let h2 = document.createElement('h2');
-    h2.innerHTML = renderString(this.title);
-    this.dom.appendChild(h2);
+    if (this.title != "") {
+      let h2 = document.createElement('h2');
+      h2.innerHTML = renderString(this.title);
+      this.dom.appendChild(h2);
+    }
+
 
     // let date = document.createElement("div");
     // date.setAttribute("class", "date");
@@ -50,17 +50,20 @@ class Article {
 
     if (this.imgURL != "") {
       // let p_ = document.createElement('p');
-      let a_link = document.createElement('a');
-      a_link.setAttribute('href', this.URL);
-      a_link.setAttribute('target', 'blank');
 
       let img = document.createElement('img');
       img.setAttribute("src", this.imgURL);
       img.setAttribute("class", "vignette");
-      a_link.appendChild(img);
-      // p_.appendChild(a_link);
-      // this.dom.appendChild(p_);
-      this.dom.appendChild(a_link);
+
+      if (this.URL != "") {
+        let a_link = document.createElement('a');
+        a_link.setAttribute('href', this.URL);
+        a_link.setAttribute('target', 'blank');
+        a_link.appendChild(img);
+        this.dom.appendChild(a_link);
+      } else {
+        this.dom.appendChild(img);
+      }
     }
 
     if (this.introduction != "") {
@@ -76,7 +79,6 @@ class Article {
         h3.innerHTML = renderString(para.title);
         this.dom.appendChild(h3);
       }
-
       for (let line of para.lines) {
         let domLine = document.createElement('p');
         if (typeof line == "string") {
@@ -100,15 +102,6 @@ class Article {
     // this.dom.appendChild(author);
   }
 
-  changeMeta() {
-    let dom = document.getElementById("ogpic");
-    // let dom = document.createElement("meta");
-    // dom.setAttribute("property", "og:image");
-    dom.setAttribute("content", this.imgURL);
-    // document.head.appendChild(dom);
-
-    console.log(dom);
-  }
 }
 
 renderString = function(string) {

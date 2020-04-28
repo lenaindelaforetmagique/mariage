@@ -101,7 +101,6 @@ class Article {
   }
 
   changeMeta() {
-    console.log("coucou");
     let dom = document.getElementById("ogpic");
     // let dom = document.createElement("meta");
     // dom.setAttribute("property", "og:image");

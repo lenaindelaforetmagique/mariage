@@ -91,6 +91,7 @@ article {
 }
 
 article h2 {
+  font-weight: bold;
   /* margin: 0 0 10px 0; */
   padding: 7px 7px 7px 13px;
   /* border-radius: 7px 7px 0 0; */
@@ -103,6 +104,11 @@ article h2 {
 }
 
 article h3 {
+  /* font-weight: lighter; */
+  font-weight: normal;
+  /* font-weight: bold; */
+  /* font-weight: bolder; */
+  /* font-weight: 600; */
   padding-left: 13px;
   padding-bottom: 0;
   margin-bottom: 7px;
@@ -110,6 +116,10 @@ article h3 {
   color: #444444;
   color: #FFA500;
   font-family: 'Amatic SC', cursive;
+}
+
+article strong {
+  font-weight: 600;
 }
 
 article p {
@@ -207,6 +217,25 @@ a:hover {
 }
 
 a:active {
+  color: #BBBBBB;
+  color: #FFA500;
+}
+
+phone a:link {
+  color: #444444;
+  text-decoration: none;
+}
+
+phone a:visited {
+  color: #444444;
+}
+
+phone a:hover {
+  color: #BBBBBB;
+  /* color: #FFA500; */
+}
+
+phone a:active {
   color: #BBBBBB;
   color: #FFA500;
 }

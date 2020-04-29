@@ -1,3 +1,32 @@
+generate_ID = function(idObj) {
+  // "type": "ID",
+  // "name": "Sylvie et Bruno",
+  // "phoneNumbers": ["0670826194"],
+  // "URL": "http://chambrehoteyevre.free.fr/"
+  let result = document.createElement('p');
+  let name = document.createElement('strong');
+  name.innerHTML = renderString(idObj.name);
+  result.appendChild(name);
+
+  let phoneNumbers = [];
+  for (let phoneNumber of idObj.phoneNumbers) {
+    phoneNumbers.push("<a href=\"tel:" + phoneNumber + "\">" + phoneNumber.replace(/(\d{2})/g, '$1 ').replace(/(^\s+|\s+$)/, '') + "</a>");
+  }
+  let phone = document.createElement("phone");
+  phone.innerHTML = "<br> tél : " + phoneNumbers.join(" / ");
+  result.appendChild(phone);
+
+  let webSite = document.createElement("website");
+  webSite.innerHTML = " - <a href=\"" + idObj.URL + "\" target=\"_blank\" >site internet</a>";
+  result.appendChild(webSite);
+
+
+
+
+  return result;
+}
+
+
 class Article {
   constructor(jsonURL, parentDOM_, changeMeta = false) {
     this.parentDOM = parentDOM_;
@@ -72,7 +101,6 @@ class Article {
       this.dom.appendChild(intro);
     }
 
-
     for (let para of this.content) {
       if (para.title != "") {
         let h3 = document.createElement('h3');
@@ -92,6 +120,8 @@ class Article {
             li.innerHTML = renderString(item);
             ul.appendChild(li);
           }
+        } else if (line.type == "ID") {
+          domLine = generate_ID(line);
         }
         this.dom.appendChild(domLine);
       }
@@ -101,7 +131,6 @@ class Article {
     // author.innerHTML = this.author;
     // this.dom.appendChild(author);
   }
-
 }
 
 renderString = function(string) {

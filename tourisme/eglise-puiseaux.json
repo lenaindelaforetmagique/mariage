@@ -15,8 +15,8 @@
     },
     {
       "type": "Paragraph",
-      "title": "Un deuxième paragraphe",
-      "lines": [{
+      "title": "Le clocher tors",
+      "lines": ["Figurez-vous que la raison de la torsion du clocher est accidentelle !", {
         "type": "List",
         "style": "",
         "items": [

@@ -1,0 +1,29 @@
+{
+  "type": "Article",
+  "title": "Château de Chamerolles",
+  "date": "",
+  "author": "Xavier Morin",
+  "URL": "",
+  "imgURL": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Chamerolles3.jpg",
+  "introduction": "C'est très zoli !",
+  "content": [{
+    "type": "Paragraph",
+    "title": "Le château",
+    "lines": [{
+      "type": "List",
+      "style": "",
+      "items": [
+        "un",
+        "deux",
+        "trois"
+      ]
+    }]
+  }, {
+    "type": "Paragraph",
+    "title": "S'y rendre",
+    "lines": [
+      "L'adresse : Château de Chamerolles, 45170 Chilleurs-aux-Bois",
+      "ou bien cliquez sur ce <a href=\"https://goo.gl/maps/qvfPFNunj1VCkU9s7\" target=\"_blank\">lien google-map</a>"
+    ]
+  }]
+}

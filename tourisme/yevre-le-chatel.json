@@ -1,0 +1,36 @@
+{
+  "type": "Article",
+  "title": "Yèvre-le-Châtel",
+  "date": "",
+  "author": "Xavier Morin",
+  "URL": "",
+  "imgURL": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Mar%C3%A9chalerie_DSC03366.jpg",
+  "introduction": "Vous serez heureux de visiter le village de Yèvre-le-Châtel qui, figurez-vous, est classé depuis 2002 parmi les Plus Beaux Villages de France !",
+  "content": [{
+    "type": "Paragraph",
+    "title": "Le château",
+    "lines": [{
+      "type": "List",
+      "style": "",
+      "items": [
+        "un",
+        "deux",
+        "trois"
+      ]
+    }]
+  }, {
+    "type": "Paragraph",
+    "title": "L'église Saint-Lubin",
+    "lines": [
+      "L'église Saint-Lubin vaut le détour car elle est dépourvue de toît ! Cette « ruine » n'est est pas une car les travaux de sa construction n'ont en fait jamais été achevés !",
+      "Histoire de vous dire que vous marchez sur les pas d'un Grand, sachez que Victor Hugo y a mis les pieds et a témoigné de son admiration dans l'une de ses correspondances que vous pourrez lire sur place !"
+    ]
+  }, {
+    "type": "Paragraph",
+    "title": "S'y rendre",
+    "lines": [
+      "L'adresse : Yèvre-le-Châtel, 45300 Yèvre-la-Ville",
+      "ou bien cliquez sur ce <a href=\"https://goo.gl/maps/2yWVMjhbMjspPumw6\" target=\"_blank\">lien google-map</a>"
+    ]
+  }]
+}

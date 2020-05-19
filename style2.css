@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   --orange: rgba(222, 52, 0, 1);
+  --white: #FFFFFF;
   --green: #005038;
   --ivory: #FFFFF0;
   --gray: #404040;
@@ -20,7 +21,6 @@ body {
   margin: 0px auto;
   font-family: 'Tajawal', sans-serif;
   color: var(--gray);
-  /* color: var(--green); */
 }
 
 header {
@@ -58,7 +58,7 @@ nav ul {
 }
 
 nav li {
-  color: white;
+  color: var(--white);
   padding: 7px 20px 5px 20px;
   border-width: 0;
   /* border-radius: 7px 7px 0 0; */
@@ -69,11 +69,11 @@ nav li {
 
 nav li.selected {
   /* font-weight: bold; */
-  background-color: var(--orange);
+  background-color: var(--ivory);
   /* rgba(255, 255, 255, 0.3); */
   /* color: #FFA500; */
   /* color: var(--orange); */
-  color: #FFFFFF;
+  color: var(--green);
 }
 
 nav li:hover {
@@ -88,7 +88,7 @@ main {
   overflow: auto;
   background: rgba(252, 221, 174, 0.5);
   /* background: rgba(255, 255, 255, 0.8); */
-  background: var(--orange);
+  /* background: var(--orange); */
 }
 
 article {

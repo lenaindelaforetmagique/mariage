@@ -9,15 +9,9 @@
   "content": [{
     "type": "Paragraph",
     "title": "Le château",
-    "lines": [{
-      "type": "List",
-      "style": "",
-      "items": [
-        "un",
-        "deux",
-        "trois"
-      ]
-    }]
+    "lines": [
+      "Nous sommes en train de rédiger une description très claire et très motivante pour vous donner envie d'aller visiter ce site incroyable !"
+    ]
   }, {
     "type": "Paragraph",
     "title": "L'église Saint-Lubin",

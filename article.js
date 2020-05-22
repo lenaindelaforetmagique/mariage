@@ -16,10 +16,11 @@ generate_ID = function(idObj) {
   phone.innerHTML = "<br> tél : " + phoneNumbers.join(" / ");
   result.appendChild(phone);
 
-  let webSite = document.createElement("website");
-  webSite.innerHTML = " - <a href=\"" + idObj.URL + "\" target=\"_blank\" >site internet</a>";
-  result.appendChild(webSite);
-
+  if (idObj.URL != "") {
+    let webSite = document.createElement("website");
+    webSite.innerHTML = " - <a href=\"" + idObj.URL + "\" target=\"_blank\" >site internet</a>";
+    result.appendChild(webSite);
+  }
 
 
 

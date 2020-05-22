@@ -5,51 +5,19 @@
   "author": "Xavier Morin",
   "URL": "",
   "imgURL": "oudormir/gite.jpg",
-  "introduction": "Vous aimez le calme rural et ne refuseriez pas un peu de confort pour permettre à votre corps, pétri de courbatures après avoir enflammé la piste de danse, de se reposer sur un matelas confortable ; voici une liste de gîtes à proximité du lieu de réception. (https://yevre-la-ville.fr/les-hebergements/)",
+  "introduction": "Vous aimez le calme rural et ne refuseriez pas un peu de confort pour permettre à votre corps, pétri de courbatures après avoir enflammé la piste de danse, de se reposer sur un matelas confortable ; voici une liste de gîtes à proximité du lieu de réception.",
   "content": [{
       "type": "Paragraph",
       "title": "Chambres d’hôtes",
-      "lines": [{
-          "type": "ID",
-          "name": "Sylvie et Bruno",
-          "phoneNumbers": ["0670826194"],
-          "URL": "http://chambrehoteyevre.free.fr/"
-        },
-        {
-          "type": "ID",
-          "name": "Mme&nbsp;Marie-Thérèse DUPRE",
-          "phoneNumbers": ["0238343012"],
-          "URL": "https://www.gralon.net/chambres-hotes/loiret/chambre-hote-2-personnes-yevre-la-ville-51331.htm"
-        }
+      "lines": [
+        "Nous sommes en train de répérer des chambres d'hôtes incroyables, revenez prochainement !"
       ]
     },
     {
       "type": "Paragraph",
       "title": "Gîtes de France",
-      "lines": [{
-          "type": "ID",
-          "name": "Aline et Stéphane CIROTTEAU - Le Clos des Ouches",
-          "phoneNumbers": ["0601837013", "0610245328"],
-          "URL": "https://www.gites-de-france-loiret.com/fr/location/locations-gites-yevre-la-ville-le-clos-des-ouches-h45g004591?capacity=1"
-        },
-        {
-          "type": "ID",
-          "name": "Gilles et Béatrice BLANVILLAIN",
-          "phoneNumbers": ["0238342522", "0616848071"],
-          "URL": "https://www.gites-de-france-loiret.com/fr/location/locations-gites-yevre-le-chatel-le-clos-chatel-h45g004599?capacity=1"
-        },
-        {
-          "type": "ID",
-          "name": "M.&nbsp;Gérard LANGEVIN",
-          "phoneNumbers": ["0238342442"],
-          "URL": "https://www.gites-de-france-loiret.com/fr/location/chambres-hotes-yevre-la-ville-le-grand-reigneville-chambre-h45h004597"
-        },
-        {
-          "type": "ID",
-          "name": "M.&nbsp;Jean-Philippe LIGER",
-          "phoneNumbers": ["0238620488", "0238433090"],
-          "URL": "https://www.gites-de-france-loiret.com/fr/location/locations-gites-yevre-le-chatel-les-remparts-fleuris-h45g004600?capacity=1"
-        }
+      "lines": [
+        "Nous sommes en train de répérer des gîtes de France incroyables, revenez prochainement !"
       ]
     }
   ]

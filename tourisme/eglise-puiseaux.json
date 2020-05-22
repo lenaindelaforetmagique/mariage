@@ -5,33 +5,13 @@
   "author": "Xavier Morin",
   "URL": "",
   "imgURL": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Puiseaux_%C3%A9glise.jpg",
-  "introduction": "L'église de Puiseaux",
+  "introduction": "Nous sommes en train de rédiger une description très claire et très motivante pour vous donner envie d'aller visiter ce site incroyable !",
   "content": [{
-      "type": "Paragraph",
-      "title": "Un paragraphe",
-      "lines": [
-        "du texte"
-      ]
-    },
-    {
-      "type": "Paragraph",
-      "title": "Le clocher tors",
-      "lines": ["Figurez-vous que la raison de la torsion du clocher est accidentelle !", {
-        "type": "List",
-        "style": "",
-        "items": [
-          "un",
-          "deux",
-          "trois"
-        ]
-      }]
-    }, {
-      "type": "Paragraph",
-      "title": "S'y rendre",
-      "lines": [
-        "L'adresse : 2 Rue Blanchard, 45390 Puiseaux",
-        "ou bien cliquez sur ce <a href=\"https://goo.gl/maps/bZnyC8W3nmpQELLa8\" target=\"_blank\">lien google-map</a>"
-      ]
-    }
-  ]
+    "type": "Paragraph",
+    "title": "S'y rendre",
+    "lines": [
+      "L'adresse : 2 Rue Blanchard, 45390 Puiseaux",
+      "ou bien cliquez sur ce <a href=\"https://goo.gl/maps/bZnyC8W3nmpQELLa8\" target=\"_blank\">lien google-map</a>"
+    ]
+  }]
 }

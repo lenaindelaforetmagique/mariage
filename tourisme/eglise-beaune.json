@@ -5,33 +5,13 @@
   "author": "Xavier Morin",
   "URL": "",
   "imgURL": "tourisme/beaune_la_rolande.jpg",
-  "introduction": "C'est là qu'on va s'marier !",
+  "introduction": "Nous sommes en train de rédiger une description très claire et très motivante pour vous donner envie d'aller visiter ce site incroyable !",
   "content": [{
-      "type": "Paragraph",
-      "title": "Un paragraphe",
-      "lines": [
-        "du texte"
-      ]
-    },
-    {
-      "type": "Paragraph",
-      "title": "Un deuxième paragraphe",
-      "lines": [{
-        "type": "List",
-        "style": "",
-        "items": [
-          "un",
-          "deux",
-          "trois"
-        ]
-      }]
-    }, {
-      "type": "Paragraph",
-      "title": "S'y rendre",
-      "lines": [
-        "L'adresse : 4 Place de L'Hôtel de ville, 45340 Beaune-la-Rolande",
-        "ou bien cliquez sur ce <a href=\"https://goo.gl/maps/JyoeH4Re1TvKbzcz7\" target=\"_blank\">lien google-map</a>"
-      ]
-    }
-  ]
+    "type": "Paragraph",
+    "title": "S'y rendre",
+    "lines": [
+      "L'adresse : 4 Place de L'Hôtel de ville, 45340 Beaune-la-Rolande",
+      "ou bien cliquez sur ce <a href=\"https://goo.gl/maps/JyoeH4Re1TvKbzcz7\" target=\"_blank\">lien google-map</a>"
+    ]
+  }]
 }

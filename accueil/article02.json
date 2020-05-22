@@ -1,38 +1,41 @@
 {
   "type": "Article",
-  "title": "Le programme du jour J",
+  "title": "Des infos bien pratiques...",
   "date": "",
   "author": "Xavier Morin",
   "URL": "",
   "imgURL": "",
-  "introduction": "Voici le programme du jour J",
+  "introduction": "Voici quelques informations pratiques",
   "content": [{
       "type": "Paragraph",
-      "title": "Le Mariage religieux",
+      "title": "Questionnaire",
       "lines": [
-        "sera célébré à 15h en l'Eglise de Beaune-la-Rolande.",
-        "La messe sera célébrée par le père Bertrand Cherrier."
+        "Avant de vous en dire plus sur l'organisation de la fête, nous avons besoin de quelques informations sur vous !",
+        "Nous avons concocté un rapide questionnaire qui nous permettra de vous envoyer des cartes postales au bon endroit ; <a href=\"https://forms.gle/54GGeTW4oYTpVTym8\" target=\"_blank\">cliquez-ici !</a>"
       ]
     },
     {
       "type": "Paragraph",
-      "title": "Le vin d'honneur",
+      "title": "La cérémonie",
       "lines": [
-        "viendez à Montberneaume !"
+        "Le mariage religieux sera célébré à 14h30 en l'Église de Beaune-la-Rolande (4 Place de L'Hôtel de ville, 45340 Beaune-la-Rolande - si vous avez un téléphone moderne, cliquez directement sur ce <a href=\"https://goo.gl/maps/JyoeH4Re1TvKbzcz7\" target=\"_blank\">lien google-map</a>).",
+        "Pour vous stationner, visez la place du marché ! "
       ]
     },
     {
       "type": "Paragraph",
-      "title": "Le cocktail dinatoire",
+      "title": "Nous écrire",
       "lines": [
-        "restez à Montberneaume !"
+        "Si vous avez envie de nous écrire et que vous ne savez plus comment nous contacter, c'est facile, voici notre adresse e-mail : ",
+        "xavieretmarieastrid [le fameux symbole avec un a entouré, raaah zut, je ne me rappelle jamais son nom.... ah si, c'est arobase] gmail.com"
       ]
     },
     {
       "type": "Paragraph",
-      "title": "LA soirée",
+      "title": "Notre liste de mariage",
       "lines": [
-        "Restez ou revenez à Montberneaume !"
+        "Voici le lien pour notre liste de mariage sur le site Mille Mercis <a href=\"https://www.millemercismariage.com/xavieretmarieastrid/liste.html\" target=\"_blank\">cliquez-ici !</a>"
+
       ]
     }
   ]

@@ -143,10 +143,6 @@ article h3 {
   font-family: 'Amatic SC', cursive;
 }
 
-article strong {
-  font-weight: 600;
-}
-
 article p {
   margin: 10px 15px 10px 15px;
   /* padding: 0 15px; */
@@ -189,9 +185,13 @@ article ul.inline li {
 }
 
 article em {
+  font-style: italic;
+}
+
+article strong {
   /* text-shadow: #FC0 1px 0 10px; */
   font-style: normal;
-  /* font-weight: bold; */
+  font-weight: normal;
   color: #de3400;
 }
 

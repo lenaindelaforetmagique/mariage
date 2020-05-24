@@ -1,17 +1,17 @@
 {
   "type": "Article",
-  "title": "L'abbaye de Saint Benoît sur Loire",
+  "title": "La forêt d'Orléans",
   "date": "",
   "author": "Xavier Morin",
   "URL": "",
-  "imgURL": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Abbaye_St-Benoit-sur-Loire.jpg",
+  "imgURL": "tourisme/foret-d-orleans.jpg",
   "introduction": "<em>Nous sommes en train de rédiger une description très claire et très motivante pour vous donner envie d'aller visiter ce site incroyable !</em>",
   "content": [{
     "type": "Paragraph",
     "title": "S'y rendre",
     "lines": [
-      "L'adresse : Place de l'Abbaye, 45730 Saint-Benoît-sur-Loire",
-      "ou bien cliquez sur ce <a href=\"https://goo.gl/maps/5yCCh4TjjrBuYHc59\" target=\"_blank\">lien google-map</a>"
+      "L'adresse : au départ de Vrigny, 45300",
+      "ou bien cliquez sur ce <a href=\"https://goo.gl/maps/ZcuMNRQGGHs3VcJo7\" target=\"_blank\">lien google-map</a>"
     ]
   }]
 }

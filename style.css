@@ -153,6 +153,54 @@ article p {
   font-size: 16px;
 }
 
+article {
+  /* -webkit-animation: fadein 2s; */
+  /* -moz-animation: fadein 2s; */
+  /* -ms-animation: fadein 2s; */
+  /* -o-animation: fadein 2s; */
+  animation: fadein 2s;
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+/*
+@-moz-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@-ms-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+} */
 article p.error {
   padding: 13px;
   text-align: justify;
@@ -290,8 +338,6 @@ phone a:active {
     margin-bottom: 5px;
     /* font-size: 16px; */
   }
-
-  article p {}
 
   article p.error {
     padding: 10px;

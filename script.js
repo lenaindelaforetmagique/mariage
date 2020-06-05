@@ -64,7 +64,6 @@ class Menu {
     parentDOM.appendChild(ul);
     for (let item of this.items) {
       let li = document.createElement('li');
-      ul.appendChild(li);
       let a = document.createElement('a');
       a.onclick = function() {
         document.dispatchEvent(new CustomEvent("menuOnClick", {
@@ -75,9 +74,10 @@ class Menu {
         }
         li.setAttribute("class", "selected");
       }
-      a.innerHTML = item.name;
+      li.innerHTML = item.name;
       this.links.push(a);
-      li.appendChild(a);
+      a.appendChild(li);
+      ul.appendChild(a);
     }
   }
 }

@@ -1,0 +1,38 @@
+{
+  "type": "Article",
+  "title": "Puiseaux",
+  "date": "",
+  "author": "Xavier Morin",
+  "URL": "",
+  "imgURL": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Puiseaux_%C3%A9glise.jpg",
+  "introduction": "Vous serez heureux d'apprendre que Puiseaux est très facilement accessible puisque la commune est traversée par les routes départementales n°26, 27, 28, 36, 112 et le numéro complémentaire 948. Nous sommes bien conscients que cette information seule vous donne déjà envie de vous y rendre, mais nous préférons rester pros et vous abreuver d'informations passionnantes !",
+  "content": [{
+      "type": "Paragraph",
+      "title": "L'église et son clocher",
+      "lines": [
+        "Le clocher de l'église de Puiseaux est particulièrement intéressant puisqu'il s'élève à 65m de haut et qu'il est <em>tors</em> d'un huitième de tour !",
+        "Mais ce qui est encore plus intéressant, c'est qu'une enquête minutieuse a permis de démontrer que la torsion du clocher n'est pas l'œuvre de son charpentier talentueux mais qu'elle est en fait accidentelle !",
+        "En effet, l'invention de la loupe a permis d'étudier chaque assemblage constitutif de la charpente et a montré que tous avaient bougé, que des espaces étaient apparus et que de nombreuses chevilles étaient rompues.",
+        "De plus, le développement de la technique de datation au carbonne 14 a permis de situer dans le temps toutes les peintures réalisées par des générations d'élèves de l'école primaire de Puiseaux représentant l'église et d'établir formellement que la torsion du clocher est survenue entre la nuit du 14 Fructidor 1796 et le 29 Vendémiaire 1803 après-midi.",
+        "CQFD."
+      ]
+    },
+    {
+      "type": "Paragraph",
+      "title": "La halle marchande",
+      "lines": [
+        "Sachez que la halle marchande de Puiseaux a connu de nombreux rebondissements au cours de son histoire ! D'abord construite vers 1213, elle fut démolie en 1224 sur ordre de Louis VIII sans doute à la suite d'un achat de poisson frais provenant de Lutèce et ayant bénéficié d'un transport express en char à bœufs...",
+        "Au XVIème siècle, on décide sa reconstruction : 5 travées portées par 4 alignements de piliers de pierres. En 1860, l'entreprise de travaux publics locale élargit la route et abat la première travée. Ayant un gout prononcé pour la géométrie, le chef de chantier décide d'appliquer une symétrie axiale et abat la travée opposée.",
+        "Aujourd'hui, la halle conserve préciseusement ses 3 dernières travées et sa charpente en bois d'époque et, il faut le dire, c'est un bien bel ouvrage !"
+      ]
+    },
+    {
+      "type": "Paragraph",
+      "title": "S'y rendre",
+      "lines": [
+        "L'adresse : 45390 Puiseaux",
+        "ou bien cliquez sur ce <a href=\"https://goo.gl/maps/bZnyC8W3nmpQELLa8\" target=\"_blank\">lien google-map</a>"
+      ]
+    }
+  ]
+}

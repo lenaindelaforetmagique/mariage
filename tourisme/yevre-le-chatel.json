@@ -5,12 +5,13 @@
   "author": "Xavier Morin",
   "URL": "",
   "imgURL": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Mar%C3%A9chalerie_DSC03366.jpg",
-  "introduction": "Vous serez heureux de visiter le village de Yèvre-le-Châtel qui, figurez-vous, est classé depuis 2002 parmi les Plus Beaux Villages de France !",
+  "introduction": "Vous serez heureux de visiter le village de Yèvre-le-Châtel qui, figurez-vous, est classé depuis 2002 parmi les Plus Beaux Villages de France ; ses rues fleuries, piétonnes et surtout pleines de charme vous raviront !",
   "content": [{
     "type": "Paragraph",
-    "title": "Le château",
+    "title": "La forteresse médiévale",
     "lines": [
-      "<em>Nous sommes en train de rédiger une description très claire et très motivante pour vous donner envie d'aller visiter ce site incroyable !</em>"
+      "Sur Wikipédia, on apprend que le château fût construit au XIIIème siècle de notre ère et que depuis cette époque, les épisodes politiques et météorologiques de la région n'ont pas arrangé son état... Cependant, une restauration récente a permis de le rendre accessible au public en ouvrant notamment le chemin de ronde qui permet d'avoir une vue imprenable sur les champs de la région et le clocher de Pithiviers !",
+      "Si après votre visite des questions subsistent, sachez que dans la famille de Marie-Astrid existe une longue lignée de guides, formés de mère en frère depuis au moins une génération..."
     ]
   }, {
     "type": "Paragraph",

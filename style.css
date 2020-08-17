@@ -212,6 +212,10 @@ article p.author {
   font-style: italic;
 }
 
+article img {
+  max-width: 100%;
+}
+
 article img.vignette {
   width: 260px;
   padding: 10px;

@@ -3,7 +3,7 @@
   "title": "Orphelinat Sainte Claudia au Bénin",
   "date": "",
   "author": "Xavier Morin",
-  "URL": "https://www.youtube.com/embed/jXzmeUmqPy4",
+  "URL": "https://www.youtube.com/watch?v=jXzmeUmqPy4",
   "imgURL": "liste/P1080904.JPG",
   "introduction": "Orphelinat Sainte Claudia de l’ONG Gbefo à Tori Acadjamé, République du Bénin",
   "content": [{
@@ -12,10 +12,8 @@
     "lines": [
       "L'orphelinat Sainte Claudia est une maison d'accueil pour enfants orphelins ou en situation de grande précarité.",
       "Située dans le petit village de Tori Acadjamé près de Tori Bossito, la structure accueille dans sa maison une soixantaine d'enfants et une dizaine d'enfants sont en famille d'accueil avant l'entrée à l'école ou pendant leurs études universitaires.",
-      "Qu'ils vivent en famille d'accueil ou à l'orphelinat chaque enfant est accompagné par le Père Félicien, fondateur de l'établissement.",
-      "L'accent est mis sur une éducation de la solidarité et du partage pour qu'un jour à son tour l'enfant puisse tendre la main à ceux dans le besoin.",
-      "Les enfants sont accueillis et pris en charge à 100 % (hébergement, alimentation, habillement, encadrement).",
-      "L'éducation est la priorité, les frais de scolarité sont couverts jusqu'à l'université."
+      "Qu'ils vivent en famille d'accueil ou à l'orphelinat chaque enfant est accompagné par le Père Félicien, fondateur de l'établissement. L'accent est mis sur une éducation de la solidarité et du partage pour qu'un jour à son tour l'enfant puisse tendre la main à ceux dans le besoin.",
+      "Les enfants sont accueillis et pris en charge à 100 % (hébergement, alimentation, habillement, encadrement). L'éducation est la priorité, les frais de scolarité sont couverts jusqu'à l'université."
     ]
   }, {
     "type": "Paragraph",
@@ -33,17 +31,17 @@
           "Une année à l'université quant à elle coute 80€."
         ]
       },
-      "Aujourd'hui les ressources de l'orphelinat proviennent principalement de la générosité béninoise.",
-      "Le nombre d'enfants grandissant la pérennité de l'établissement et de son projet requiert l'aide de tous.",
+      "Aujourd'hui les ressources de l'orphelinat proviennent principalement de la générosité béninoise. Le nombre d'enfants grandissant la pérennité de l'établissement et de son projet requiert l'aide de tous.",
       "Mais l'inconstance des fonds demande un arbitrage constant des priorités. (salaire moyen au bénin: 68€).",
-      "Aujourd'hui la plus petite des aides fera toujours la différence. Merci d'avance pour les tous les dons."
+      "Aujourd'hui la plus petite des aides fera toujours la différence. Merci d'avance pour les tous les dons !"
     ]
   }, {
     "type": "Paragraph",
     "title": "Contact et informations",
     "lines": [
-      "Pour plus d'informations, vous pouvez contacter l'association : <a href=\"mailto:sainteclaudia@gmail.com\">sainteclaudia@gmail.com</a>",
-      "<a href=\"https://www.youtube.com/embed/jXzmeUmqPy4\" target=\"_blank\">Vidéo de présentation de l'association</a>"
+      "<a href=\"https://www.youtube.com/watch?v=jXzmeUmqPy4\" target=\"_blank\"><img class=\"vignette\" src=\"liste/video.png\"></a>",
+      "Pour plus d'informations, vous pouvez contacter l'association : <a href=\"mailto:sainteclaudia@gmail.com\">sainteclaudia@gmail.com</a>"
+
     ]
   }]
 }

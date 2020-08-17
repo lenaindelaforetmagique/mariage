@@ -3,7 +3,7 @@
   "title": "Orphelinat Sainte Claudia au Bénin",
   "date": "",
   "author": "Xavier Morin",
-  "URL": "",
+  "URL": "https://www.youtube.com/embed/jXzmeUmqPy4",
   "imgURL": "liste/P1080904.JPG",
   "introduction": "Orphelinat Sainte Claudia de l’ONG Gbefo à Tori Acadjamé, République du Bénin",
   "content": [{
@@ -42,8 +42,8 @@
     "type": "Paragraph",
     "title": "Contact et informations",
     "lines": [
-      "Pour plus d'informations, vous pouvez contacter l'association : sainteclaudia@gmail.com",
-      "Vidéo de présentation de l'association : https://www.youtube.com/embed/jXzmeUmqPy4"
+      "Pour plus d'informations, vous pouvez contacter l'association : <a href=\"mailto:sainteclaudia@gmail.com\">sainteclaudia@gmail.com</a>",
+      "<a href=\"https://www.youtube.com/embed/jXzmeUmqPy4\" target=\"_blank\">Vidéo de présentation de l'association</a>"
     ]
   }]
 }

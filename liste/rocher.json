@@ -1,0 +1,16 @@
+{
+  "type": "Article",
+  "title": "Association le Rocher",
+  "date": "",
+  "author": "Xavier Morin",
+  "URL": "",
+  "imgURL": "",
+  "introduction": "Voici quelques informations pratiques",
+  "content": [{
+    "type": "Paragraph",
+    "title": "Questionnaire",
+    "lines": [
+      ""
+    ]
+  }]
+}

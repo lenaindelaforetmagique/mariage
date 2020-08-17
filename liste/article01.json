@@ -1,0 +1,27 @@
+{
+  "type": "Article",
+  "title": "",
+  "date": "",
+  "author": "Xavier Morin",
+  "URL": "",
+  "imgURL": "",
+  "introduction": "",
+  "content": [{
+    "type": "Paragraph",
+    "title": "",
+    "lines": [
+      "Si vous souhaitez participer à notre liste de mariage, nous avons concocté une cagnotte à thèmes sur le site Mille Mercis ; <a href=\"https://www.millemercismariage.com/xavieretmarieastrid/liste.html\" target=\"_blank\">cliquez-ici !</a>",
+      "Alors bien sûr, nous avons des tas d'idées pour aménager notre chez-nous, mais nous aimerions aussi aider deux associations qui nous sont chères :",
+      {
+        "type": "List",
+        "class": "",
+        "items": [
+          "l'Orphelinat Sainte Claudia au Bénin",
+          "l'Association le Rocher"
+        ]
+      },
+      "Dans les articles ci-dessous, lisez des informations concernant ces associations.",
+      "Un immense MERCI d'avance pour votre soutien !"
+    ]
+  }]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "ArticleCollection",
+  "articlesURL": [
+    "liste/article01.json",
+    "liste/orphelinat.json",
+    "liste/rocher.json"
+  ]
+}

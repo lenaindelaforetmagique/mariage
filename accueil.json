@@ -2,6 +2,7 @@
   "type": "ArticleCollection",
   "articlesURL": [
     "accueil/article01.json",
-    "accueil/article02.json"
+    "accueil/article02.json",
+    "accueil/article03.json"
   ]
 }

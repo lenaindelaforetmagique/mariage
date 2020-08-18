@@ -4,13 +4,39 @@
   "date": "",
   "author": "Xavier Morin",
   "URL": "",
-  "imgURL": "",
-  "introduction": "Présentation de l'association",
+  "imgURL": "liste/rocherLogo.jpg",
+  "introduction": "Le Rocher - Oasis des cités",
   "content": [{
-    "type": "Paragraph",
-    "title": "Contact et informations",
-    "lines": [
-      ""
-    ]
-  }]
+      "type": "Paragraph",
+      "title": "Présentation",
+      "lines": [
+        "Depuis près de 20 ans, les équipes du ROCHER OASIS DES CITÉS, association catholique d’éducation populaire, partent vivre dans les quartiers urbains dits prioritaires de France. En lien avec les habitants et les acteurs locaux, elles travaillent à mettre en place des actions éducatives, sociales et culturelles à travers l’accompagnement des familles, l’accompagnement à la scolarité, l’insertion sociale et professionnelle, le travail de rue, l’accueil de loisirs, des camps, des sorties, des ateliers d’adultes, des ateliers ludiques et créatifs."
+      ]
+    },
+    {
+      "type": "Paragraph",
+      "title": "Principes fondamentaux",
+      "lines": [
+        "Cinq principes fondamentaux régissent l'action du Rocher :",
+        {
+          "type": "List",
+          "class": "",
+          "items": [
+            "IMMERSION : l'association fait le choix d’habiter les quartiers pour y tisser des relations de proximité et de confiance, source de tout développement.",
+            "PRÉVENTION : l'association va en priorité vers les jeunes et les familles les plus en difficulté.",
+            "VALEURS : l'association met en place des actions qui encouragent le savoir-être, le mérite, le goût de l’effort, la responsabilité, l’autonomie.",
+            "FIDÉLITÉ : l'association s'engage avec les personnes en les accompagnant fidèlement dans le temps.",
+            "PARTENARIAT : l'association travaille en partenariat avec les institutions et associations locales, pour garantir aux personnes un accompagnement cohérent et de qualité."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Paragraph",
+      "title": "Contact",
+      "lines": [
+        "Site internet : <a href=\"https://assolerocher.org/\" target=\"_blank\">www.assolerocher.org</a> "
+      ]
+    }
+  ]
 }

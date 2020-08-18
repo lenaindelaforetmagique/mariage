@@ -1,34 +1,42 @@
 {
   "type": "Article",
-  "title": "Des infos bien pratiques...",
+  "title": "Aménagements covidesques",
   "date": "",
   "author": "Xavier Morin",
   "URL": "",
   "imgURL": "",
-  "introduction": "Voici quelques informations pratiques",
+  "introduction": "Voici quelques informations pratiques concernant le virus dont on entend beaucoup parler ces temps-ci.",
   "content": [{
       "type": "Paragraph",
-      "title": "Questionnaire",
+      "title": "Nouvelle église !",
       "lines": [
-        "Avant de vous en dire plus sur l'organisation de la fête, nous avons besoin de quelques informations sur vous !",
-        "Nous avons concocté un rapide questionnaire qui nous permettra de vous envoyer des cartes postales au bon endroit ; <a href=\"https://forms.gle/54GGeTW4oYTpVTym8\" target=\"_blank\">cliquez-ici !</a>"
+        "<img class=\"vignette\" src=\"https://upload.wikimedia.org/wikipedia/commons/f/fa/Puiseaux_%C3%A9glise.jpg\">",
+        "Contrairement à ce qui est indiqué sur le faire-part, le mariage religieux sera célébré à 14h30 en l'<strong>Église Notre-Dame de Puiseaux</strong> (2 Rue Blanchard, 45390 Puiseaux - si vous avez un téléphone moderne, cliquez directement sur ce <a href=\"https://goo.gl/maps/7BM7dkXh6vGKkYj67\" target=\"_blank\">lien google-map</a>). Cette église, nettement plus spacieuse et tout aussi intéressante architecturalement, permettra à chacun de se tenir à distance réglementaire de ses voisins, ce que ne permettait pas l'église de Beaune-la-Rolande.",
+        "Pour vous stationner, il faudra sans doute être un peu astucieux. Cependant, nous avons repéré pour vous les meilleures emplacements bénéficiant d'un ombragement optimal :",
+        {
+          "type": "List",
+          "class": "",
+          "items": [
+            "promenade du parc à 280m à pieds",
+            "place de jeu de paume à 350m à pieds"
+          ]
+        }
       ]
     },
     {
       "type": "Paragraph",
-      "title": "La cérémonie",
+      "title": "Respect des gestes barrière",
       "lines": [
-        "<img class=\"vignette\" src=\"tourisme/beaune_la_rolande.jpg\">",
-        "Le mariage religieux sera célébré à 14h30 en l'Église de Beaune-la-Rolande (4 Place de L'Hôtel de ville, 45340 Beaune-la-Rolande - si vous avez un téléphone moderne, cliquez directement sur ce <a href=\"https://goo.gl/maps/JyoeH4Re1TvKbzcz7\" target=\"_blank\">lien google-map</a>).",
-        "Pour vous stationner, il faudra sans doute être un peu astucieux. Alors plutôt que de nous-même organiser l'embouteillage du siècle, nous préférons laisser une part d'aléatoire qui devrait permettre une régulation du trafic dans la ville !"
-      ]
-    },
-    {
-      "type": "Paragraph",
-      "title": "Nous écrire",
-      "lines": [
-        "Si vous avez envie de nous écrire et que vous ne savez plus comment nous contacter, c'est facile, voici notre adresse e-mail : ",
-        "xavieretmarieastrid <strong>[le fameux symbole avec un a entouré, raaah zut, je ne me rappelle jamais son nom.... ah si, c'est arobase]</strong> gmail.com"
+        "Merci de respecter les gestes barrière :)",
+        {
+          "type": "List",
+          "class": "",
+          "items": [
+            "Pendant toute la cérémonie : hormis le Père Bertrand, les mariés, la famille proche et la chorale, nous vous demanderons de porter un masque.",
+            "Pendant la réception : évitez les grandes embrassades même si vous en mourrez d'envie. La réception se tiendra, si le temps le permet, le plus possible en plein air, il parait que le virus n'aime pas ça..."
+          ]
+        },
+        "Du gel hydroalcoolique et des masques seront disponibles à l'entrée de l'église et sur le lieu de réception."
       ]
     }
   ]

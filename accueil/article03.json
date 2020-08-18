@@ -1,0 +1,26 @@
+{
+  "type": "Article",
+  "title": "Contactez-nous !",
+  "date": "",
+  "author": "Xavier Morin",
+  "URL": "",
+  "imgURL": "",
+  "introduction": "Voici deux moyens hautement technologiques pour nous contacter : le premier en remplissant un formulaire super-méga-important ; le deuxième en nous envoyant des mots gentils par email :).",
+  "content": [{
+      "type": "Paragraph",
+      "title": "Questionnaire",
+      "lines": [
+        "Avant de vous en dire plus sur l'organisation de la fête, nous avons besoin de quelques informations sur vous !",
+        "Nous avons concocté un rapide questionnaire qui nous permettra de vous envoyer des cartes postales au bon endroit ; <a href=\"https://forms.gle/54GGeTW4oYTpVTym8\" target=\"_blank\">cliquez-ici !</a>"
+      ]
+    },
+    {
+      "type": "Paragraph",
+      "title": "Nous écrire",
+      "lines": [
+        "Si vous avez envie de nous écrire et que vous ne savez plus comment nous contacter, c'est facile, voici notre adresse e-mail : ",
+        "xavieretmarieastrid <strong>[le fameux symbole avec un a entouré, raaah zut, je ne me rappelle jamais son nom.... ah si, c'est arobase]</strong> gmail.com"
+      ]
+    }
+  ]
+}

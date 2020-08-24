@@ -7,18 +7,22 @@
   "imgURL": "oudormir/gite.jpg",
   "introduction": "Vous aimez le calme rural et ne refuseriez pas un peu de confort pour permettre à votre corps, pétri de courbatures après avoir enflammé la piste de danse, de se reposer sur un matelas confortable ; voici une liste de gîtes à proximité du lieu de réception.",
   "content": [{
-      "type": "Paragraph",
-      "title": "Chambres d’hôtes",
-      "lines": [
-        "<em>Nous sommes en train de répérer des chambres d'hôtes incroyables, revenez prochainement !</em>"
-      ]
-    },
-    {
-      "type": "Paragraph",
-      "title": "Gîtes de France",
-      "lines": [
-        "<em>Nous sommes en train de répérer des gîtes de France incroyables, revenez prochainement !</em>"
-      ]
-    }
-  ]
+    "type": "Paragraph",
+    "title": "Yèvre-la-Ville (moins de 3km)",
+    "lines": [{
+      "type": "ID",
+      "name": "Office de tourisme de Yèvre-la-Ville",
+      "phoneNumbers": ["0238342348"],
+      "URL": "https://yevre-la-ville.fr/les-hebergements/"
+    }]
+  }, {
+    "type": "Paragraph",
+    "title": "Augerville la Rivière (20km)",
+    "lines": [{
+      "type": "ID",
+      "name": "Domaine de Beaudon - Gîte des coucous",
+      "phoneNumbers": ["0611412800"],
+      "URL": "https://www.petitfute.com/v10869-augerville-la-riviere-45330/c1166-hebergement/c153-gite/689581-gite-des-coucous.html"
+    }, ""]
+  }]
 }

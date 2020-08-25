@@ -35,7 +35,9 @@
       "type": "Paragraph",
       "title": "Contact",
       "lines": [
-        "Site internet : <a href=\"https://assolerocher.org/\" target=\"_blank\">www.assolerocher.org</a> "
+        "Site internet : <a href=\"https://assolerocher.org/\" target=\"_blank\">www.assolerocher.org</a>",
+        "Vidéo de présentation de l'association :",
+        "<a href=\"https://youtu.be/F1fYpil-bgQ\" target=\"_blank\"><img src=\"liste/videoRocher.png\"></a>"
       ]
     }
   ]
